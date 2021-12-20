@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "469660642503",
+    "project_id": "testexpo-cb5ef",
+    "storage_bucket": "testexpo-cb5ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469660642503:android:d8166bfb9be890062b62e2",
+        "android_client_info": {
+          "package_name": "com.testexpo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469660642503-8gbecdrug1hekef70avsng5ie4eimepd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc-sAq6r8HZRkF73g_TFR9Zq6SBUo3DjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469660642503-8gbecdrug1hekef70avsng5ie4eimepd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
